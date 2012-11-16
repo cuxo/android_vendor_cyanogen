@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
     AndroidTerm \
     FileManager \
     CMParts \
+    CMBootanimation \
     CMStats \
     CMUpdateNotify \
     DSPManager \
